@@ -176,9 +176,10 @@
     transition: all 0.5s;
 }
 .circle-box:hover{
-    background-color: aqua;
-    color: #325DFF;
-    border: solid #325DFF;
+    background-color: grey;
+    color: white;
+    
+    
 }
 .box-head{
     font-size: 18px;
